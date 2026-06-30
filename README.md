@@ -11,6 +11,7 @@ e instruções de execução.
 | Projeto | Tecnologias | Status |
 |---|---|---|
 | [01 - Calculadora Simples](./01-calculadora-simples) | PHP, JavaScript | ✅ Concluído |
+| [02 - Calculadora INSS / IRRF](./02-calculadora de salario) | PHP, JavaScript | ✅ Concluído |
 
 ## 🛠️ Tecnologias gerais utilizadas
 
